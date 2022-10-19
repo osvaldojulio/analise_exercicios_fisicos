@@ -11,10 +11,17 @@ foram organizadas como tabelas de dimensão para filtrar os dados.
 Os cálculos a seguir foram criados nos relatórios do Power BI usando DAX (Expressões de Análise de Dados). 
 Para diminuir a extensão da codificação, a reutilização de medidas (ramificação de medida) foi enfatizada.
 
-Média de Etapas – Esta é uma função AVERAGE simples em torno da coluna Steps:
+*Média de Etapas – Esta é uma função AVERAGE simples em torno da coluna Steps:
 
-Total de Etapas – Esta é uma função SOMA simples em torno da coluna Etapas:
+*Total de Etapas – Esta é uma função SOMA simples em torno da coluna Etapas:
 
-***Corrida % do Total – Aqui estamos usando duas medidas de antes para encontrar a % de etapas que foram feitas executando:
+*Corrida % do Total – Aqui estamos usando duas medidas de antes para encontrar a % de etapas que foram feitas executando:
 
-***Caminhada % do Total – Aqui estamos usando duas medidas de antes para encontrar a % de passos que foram feitos caminhando
+*Caminhada % do Total – Aqui estamos usando duas medidas de antes para encontrar a % de passos que foram feitos caminhando
+
+## Capa
+https://user-images.githubusercontent.com/56509130/196688560-9b81a0c1-721b-4600-b2bd-5d730e79795f.png
+
+## Overview
+
+
