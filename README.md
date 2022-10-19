@@ -1,4 +1,4 @@
-# Analise de Exercicíos Físicos
+# Análise de Exercicíos Físicos
 
 Este projecto descreve três tipos diferentes de actividades: Caminhada, Corrida e Yoga
 
@@ -22,7 +22,6 @@ Para diminuir a extensão da codificação, a reutilização de medidas (ramific
 ## Capa
 ![Captura de ecrã 2022-10-19 13:12:04](https://user-images.githubusercontent.com/56509130/196688560-9b81a0c1-721b-4600-b2bd-5d730e79795f.png)
 
-https://user-images.githubusercontent.com/56509130/196688560-9b81a0c1-721b-4600-b2bd-5d730e79795f.png
 
 ## Overview
 ![Captura de ecrã 2022-10-19 13:12:34](https://user-images.githubusercontent.com/56509130/196689241-c5f4f6ff-0d59-4f2f-8798-0f53ed6ce230.png)
